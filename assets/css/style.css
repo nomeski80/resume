@@ -37,6 +37,10 @@ h4 {
     font-weight: 300;
     color: #fafafa;
 }
+
+.inline-block {
+    display: inline-block;
+}
 /*---------------------------------------------header ---*/
 header {
     margin: 0;
